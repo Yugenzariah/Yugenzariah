@@ -10,3 +10,5 @@
 `C#`
 `CSS`
 `HTML`
+
+<p><img align="right" src="https://github.com/Yugenzariah/Yugenzariah/blob/main/A%20programmers%20life.gif" width="500" height="320" /></p>
