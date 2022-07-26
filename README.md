@@ -11,7 +11,7 @@
 `HTML`
 `C#`
 <p align="center">
-<img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="50px" height="50px"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="60px" height="60px"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="60px" height="60px"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="50px" height="50px"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C#" width="50px" height="50px">
+<img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="50px" height="50px"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="60px" height="60px"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="60px" height="60px"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C#" width="50px" height="50px">
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yugenzariah&theme=midnight-purple&count_private=true&langs_count=10" />
@@ -20,5 +20,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Yugenzariah&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true)](https://github.com/Yugenzariah/github-readme-stats"/>
 </p>
 <p align="center">
-<img src="https://github.com/Yugenzariah/Yugenzariah/blob/main/A%20programmers%20life.gif" width="500" height="320" />
+<img src="https://github.com/Yugenzariah/Yugenzariah/blob/main/A%20programmers%20life.gif" width="1000" height="440" />
 </p>
