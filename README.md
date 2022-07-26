@@ -10,7 +10,7 @@
 </p>
 
 ## The programming languages I am currently learning are:
-<p align="center"
+<p align="center">
 `JavaScript`
 `CSS`
 `HTML`
