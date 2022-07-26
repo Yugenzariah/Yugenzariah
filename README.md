@@ -10,10 +10,12 @@
 </p>
 
 ## The programming languages I am currently learning are:
+<p align="center"
 `JavaScript`
 `CSS`
 `HTML`
 `C#`
+</p>
 <p align="center">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="50px" height="50px"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="60px" height="60px"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="60px" height="60px"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C#" width="50px" height="50px">
 </p>
