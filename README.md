@@ -5,6 +5,10 @@
 - My current objectives are to learn more about technology, programming languages and many more that goes around IT business.
 - I love playing videogames:video_game:, listening to music:musical_score:,cooking:ramen:, and watching movies:tv:!
 
+<p align="center">
+<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500" height="320" />
+</p>
+
 ## The programming languages I am currently learning are:
 `JavaScript`
 `CSS`
@@ -18,7 +22,4 @@
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Yugenzariah&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true)](https://github.com/Yugenzariah/github-readme-stats"/>
-</p>
-<p align="center">
-<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500" height="320" />
 </p>
