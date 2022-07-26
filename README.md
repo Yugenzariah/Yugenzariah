@@ -6,7 +6,7 @@
 - I love playing videogames:video_game:, listening to music:musical_score:,cooking:ramen:, and watching movies:tv:!
 
 <p align="center">
-<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="700" height="320" />
+<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="800" height="320" />
 </p>
 
 ## The programming languages I am currently learning are:
