@@ -21,5 +21,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yugenzariah&theme=cyan&count_private=true&langs_count=10" />
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Yugenzariah&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true)](https://github.com/Yugenzariah/github-readme-stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Yugenzariah&show_icons=true&theme=cyan&count_private=true&include_all_commits=true)](https://github.com/Yugenzariah/github-readme-stats"/>
 </p>
