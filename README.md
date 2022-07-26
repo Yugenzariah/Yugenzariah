@@ -13,7 +13,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yugenzariah&theme=midnight-purple&count_private=true&langs_count=10" />
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=Yugenzariah&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true)](https://github.com/Yugenzariah/github-readme-stats"/>
 
 
 
