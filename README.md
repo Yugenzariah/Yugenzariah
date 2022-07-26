@@ -19,4 +19,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Yugenzariah&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true)](https://github.com/Yugenzariah/github-readme-stats"/>
 </p>
-<p><img align="center" src="https://github.com/Yugenzariah/Yugenzariah/blob/main/A%20programmers%20life.gif" width="500" height="320" /></p>
+<p align="center">
+<img src="https://github.com/Yugenzariah/Yugenzariah/blob/main/A%20programmers%20life.gif" width="500" height="320" />
+</p>
