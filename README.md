@@ -1,6 +1,6 @@
 # Hello There! :smile:
 
-- My name is Keith Cayatoc but you can call me Az.
+- My name is Keith but you can call me Az.
 - I am currently studying for the Diploma in Web Design and Development at Nelson Marlborough Institute of Technology (NMIT).
 - My current objectives are to learn more about technology, programming languages and many more that goes around IT business.
 - I love playing videogames:video_game:, listening to music:musical_score:,cooking:ramen:, and watching movies:tv:!
