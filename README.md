@@ -6,7 +6,7 @@ An aspiring software engineer and tech enthusiast
 
 * 🌍  I'm based in Nelson, New Zealand
 * ✉️  You can contact me at [yugenzariah@gmail.com](mailto:yugenzariah@gmail.com)
-* 🧠  I'm learning REACT, Node.JS, REST API, and C#
+* 🧠  I'm currently learning REACT, Node.JS, REST API, and C#
 * 🤝  I'm open to collaborating on small front-end development projects
 
 ### Skills
