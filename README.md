@@ -43,6 +43,6 @@ During my first year of studying I got to learn the proper communication standar
 </p>
 
 <p>
-I am determined that with the drive of achieving goals I set for myself, I can be someone who can be reliable and efficient. For me, success isn't just about accolades and achievements, it's about embodying values like integrity, innovation, and collaboration in everything I do. Whether I'm studying, working or collaborating with others on a project, I strive to make a positive impact on those around me. Enough said, I am looking forward to meeting new exciting people, making memorable moments, and enjoying the journey whatver life gives me.
+I am determined that with the drive of achieving goals I set for myself, I can be someone who is reliable and efficient. For me, success isn't just about accolades and achievements, it's about embodying values like integrity, innovation, and collaboration in everything I do. Whether I'm studying, working or collaborating with others on a project, I strive to make a positive impact on those around me. Enough said, I am looking forward to meeting new exciting people, making memorable moments, and enjoying the journey whatver life gives me.
 </p>
 </details>
