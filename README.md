@@ -31,18 +31,3 @@ An aspiring software engineer and tech enthusiast
 
 <a href="http://www.github.com/Yugenzariah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Yugenzariah&stroke=14b8a6&background=000000&ring=ec4899&fire=ec4899&currStreakNum=14b8a6&currStreakLabel=ec4899&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 </div>
-
-<details>
-<summary><h3>👨‍💻 Keith's Coding Journey</h3></summary>
-<p>
-Just a few months after moving from the Philippines to New Zealand, I immediately got enrolled at NMIT where I took the Web Development course and got introduced to coding. Even though it wasn't my first time seeing code I was still overwhelmed by the amount of daunting information that I had to learn, that was when I realized that I still have a lot to acquire knowledge of before I become proficient on being a software engineer/developer. 
-</p>
-  
-<p>
-During my first year of studying I got to learn the proper communication standards and the architecture of computer systems, I was also able to enhance my designing skills by making prototypes using figma, not only that, I gained an understanding of the Software Development Lifecycle (SDLC), utilizing unit tests to test applications, analyse systems and its design, web frameworks by developing websites using a content management system called Wordpress. My favorite is when I started using HTML, CSS, and JavaScript to make small projects along with my personal portfolio.
-</p>
-
-<p>
-I am determined that with the drive of achieving goals I set for myself, I can be someone who is reliable and efficient. For me, success isn't just about accolades and achievements, it's about embodying values like integrity, innovation, and collaboration in everything I do. Whether I'm studying, working or collaborating with others on a project, I strive to make a positive impact on those around me. Enough said, I am looking forward to meeting new exciting people, making memorable moments, and enjoying the journey whatever life gives me.
-</p>
-</details>
