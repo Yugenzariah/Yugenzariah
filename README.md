@@ -10,8 +10,8 @@ An aspiring software engineer and tech enthusiast
 
 * 🌍  I'm based in Nelson, New Zealand
 * ✉️  You can contact me at [yugenzariah@gmail.com](mailto:yugenzariah@gmail.com)
-* 🧠  I'm currently learning REACT, Node.JS, REST API, C#, and UE5
-* 🤝  I'm currently working on a website for NISA
+* 🧠  I'm currently learning RDBMS, Tiered Software Development and Research Methodologies
+* 🤝  I'm currently open for collaborations
 
 ### Skills
 
